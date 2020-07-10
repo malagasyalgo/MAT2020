@@ -20,6 +20,7 @@ __Examples__
 
 
 [English]
+
 __[Very Easy]__
 
 Your team at AIML Inc is working on a Machine Learning project used to tell if a text has a meaning or not. Your task is to create a program that *counts the occurences* of **each letter** in the text.
